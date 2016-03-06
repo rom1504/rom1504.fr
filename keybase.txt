@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/rom1504
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rom1504.fr
+  * I am rom1504 (https://keybase.io/rom1504) on keybase.
+  * I have a public key ASB1Z9sbI8JRLzgvFg_Unf0luj8-SK7QKOGrCcpLDyZF-Qo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012d8d217f6a094fd0f4376417ec0e2675c9b976f993c6e0830b65c787389474920a",
+            "host": "keybase.io",
+            "kid": "01207567db1b23c2512f382f160fd49dfd25ba3f3e48aed028e1ab09ca4b0f2645f90a",
+            "uid": "d6b4565df040e2faa3146a6d5bc6e419",
+            "username": "rom1504"
+        },
+        "service": {
+            "hostname": "rom1504.fr",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1457276874,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1457276750,
+        "hash": "2b4d3af0ff6c4889ff7ace112e0456fb2e33c6bd793495f5da76effef9f29849fc185611063b8a4df9dc9fa668a448a811342b4528ed97c12d5b9309096ced68",
+        "seqno": 401912
+    },
+    "prev": "f8c046bf07337a96f974573391c83ce05fa1d9a7ffa9543db677407e3a766ede",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdWfbGyPCUS84LxYP1J39Jbo/Pkiu0CjhqwnKSw8mRfkKp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMmQ4ZDIxN2Y2YTA5NGZkMGY0Mzc2NDE3ZWMwZTI2NzVjOWI5NzZmOTkzYzZlMDgzMGI2NWM3ODczODk0NzQ5MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzU2N2RiMWIyM2MyNTEyZjM4MmYxNjBmZDQ5ZGZkMjViYTNmM2U0OGFlZDAyOGUxYWIwOWNhNGIwZjI2NDVmOTBhIiwidWlkIjoiZDZiNDU2NWRmMDQwZTJmYWEzMTQ2YTZkNWJjNmU0MTkiLCJ1c2VybmFtZSI6InJvbTE1MDQifSwic2VydmljZSI6eyJob3N0bmFtZSI6InJvbTE1MDQuZnIiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ1NzI3Njg3NCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU3Mjc2NzUwLCJoYXNoIjoiMmI0ZDNhZjBmZjZjNDg4OWZmN2FjZTExMmUwNDU2ZmIyZTMzYzZiZDc5MzQ5NWY1ZGE3NmVmZmVmOWYyOTg0OWZjMTg1NjExMDYzYjhhNGRmOWRjOWZhNjY4YTQ0OGE4MTEzNDJiNDUyOGVkOTdjMTJkNWI5MzA5MDk2Y2VkNjgiLCJzZXFubyI6NDAxOTEyfSwicHJldiI6ImY4YzA0NmJmMDczMzdhOTZmOTc0NTczMzkxYzgzY2UwNWZhMWQ5YTdmZmE5NTQzZGI2Nzc0MDdlM2E3NjZlZGUiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAVq8g2z8ipuJvVb7Fibde06LoDchelABa0ILjm4p/uJ85BmfeVytlrgBmZvn6mmYNHnKvLl1qhk1U2zqMFcGeBahzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rom1504
+
+==================================================================
